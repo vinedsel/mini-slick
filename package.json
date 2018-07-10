@@ -18,6 +18,7 @@
   "homepage": "https://github.com/vinedsel/mini-slick#readme",
   "dependencies": {
     "bootstrap": "^4.1.1",
-    "jquery": "^3.3.1"
+    "jquery": "^3.3.1",
+    "slick-carousel": "^1.8.1"
   }
 }
