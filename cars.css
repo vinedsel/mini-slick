@@ -12,7 +12,8 @@ h1 {
 }
 
 .showcase {
-  position: relative;
+  position: absolute;
   justify-content: center;
-  display: flex;
+  display: inline-block;
+  width: 667px;
 }
