@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/vinedsel/mini-slick/issues"
   },
-  "homepage": "https://github.com/vinedsel/mini-slick#readme"
+  "homepage": "https://github.com/vinedsel/mini-slick#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.1"
+  }
 }
