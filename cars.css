@@ -2,13 +2,20 @@ body {
   background-color: #00264d;
 }
 
+div {
+  position: relative;
+  justify-content: center;
+  display: flex;
+  height: 300px;
+}
+
 h1 {
   font-family: serif;
   color: #ffffcc;
   justify-content: center;
   display: flex;
   margin-top: 50px;
-  margin-bottom: 50px;
+  margin-bottom: 100px;
 }
 
 .showcase {
@@ -16,4 +23,6 @@ h1 {
   justify-content: center;
   display: inline-block;
   width: 667px;
+  height: 500px;
+  top: 150px;
 }
