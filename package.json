@@ -1,0 +1,19 @@
+{
+  "name": "mini-slick",
+  "version": "1.0.0",
+  "description": "A small project incorporating Slick.js as a means to understand how it works, and to hopefully be able to troubleshoot my astro-cars repo.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vinedsel/mini-slick.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/vinedsel/mini-slick/issues"
+  },
+  "homepage": "https://github.com/vinedsel/mini-slick#readme"
+}
