@@ -7,7 +7,7 @@ body {
   justify-content: center;
   display: flex;
   height: 400px;
-  width: 100%;
+  width: 600px;
   margin: 0 auto;
 }
 
@@ -24,7 +24,7 @@ h1 {
   position: absolute;
   justify-content: center;
   margin-bottom: 50px;
-  width: 48%;
+  width: 550px;
   height: 100%;
   top: 150px;
 }
